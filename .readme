@@ -1,0 +1,5 @@
+//"dev": "nodemon --exec babel-node lib/server.js
+//npm i -g babel-cli
+
+//yarn dev
+//yarn pm2 logs
